@@ -5,4 +5,4 @@ Exploration_notebook.ipynb
 .vscode
 .DS_Store
 streamlit/requirements.txt
-streamlit/Dockerfile.txt
+Dockerfile.txt
