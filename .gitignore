@@ -1,0 +1,7 @@
+venv
+to_push
+Exploration_notebook.ipynb
+.ipynb_checkpoints
+.vscode
+.DS_Store
+

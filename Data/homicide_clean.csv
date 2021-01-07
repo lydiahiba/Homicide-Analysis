@@ -1,0 +1,461 @@
+country,Rate,Count
+Burundi,6.02,"635
+"
+Comoros,7.7,"60
+"
+Djibouti,6.48,"60
+"
+Eritrea,8.04,"390
+"
+Ethiopia,7.56,"7,552
+"
+Kenya,4.93,"2,533
+"
+Madagascar,7.69,"1,863
+"
+Malawi,1.73,"279
+"
+Mauritius,2.92,"37
+"
+Mayotte,5.93,"12
+"
+Mozambique,3.4,"849
+"
+Réunion,1.82,"15
+"
+Rwanda,2.52,"293
+"
+Seychelles,12.74,"12
+"
+Somalia,4.31,"599
+"
+South Sudan,13.9,"1,504
+"
+Uganda,10.42,"4,497
+"
+Tanzania,6.95,"3,746
+"
+Zambia,5.3,"853
+"
+Zimbabwe,6.67,"981
+"
+Angola,4.85,"1,217
+"
+Cameroon,1.4,"341
+"
+Central African Republic,19.76,"913
+"
+Chad,9.04,"1,266
+"
+Congo,9.32,"466
+"
+DR Congo,13.55,"10,322
+"
+Equatorial Guinea,2.31,"27
+"
+Gabon,8.04,"155
+"
+São Tomé and Príncipe,3.36,"6
+"
+Algeria,1.36,"542
+"
+Egypt,2.51,"2,207
+"
+Libya,2.5,"156
+"
+Morocco,1.42,"510
+"
+Sudan,5.16,"1,702
+"
+Tunisia,3.05,"332
+"
+Botswana,15.04,"303
+"
+Eswatini,9.5,"130
+"
+Lesotho,41.25,"897
+"
+Namibia,17.14,"388
+"
+South Africa,36.4,"21,036
+"
+Benin,1.1,"126
+"
+Burkina Faso,1.3,"240
+"
+Cape Verde,6.8,"37
+"
+Côte d'Ivoire,11.63,"2,688
+"
+Gambia,9.13,"181
+"
+Ghana,2.1,"609
+"
+Guinea,8.82,"1,067
+"
+Guinea-Bissau,1.1,"21
+"
+Liberia,3.23,"135
+"
+Mali,10.9,"1,905
+"
+Mauritania,9.94,"416
+"
+Niger,4.44,"788
+"
+Nigeria,9.85,"17,843
+"
+Saint Helena,0.0,"0
+"
+Senegal,7.38,"1,105
+"
+Sierra Leone,1.71,"124
+"
+Togo,9.0,"668
+"
+Anguilla,27.66,"4
+"
+Antigua and Barbuda,10.33,"10
+"
+Aruba,1.93,"2
+"
+Bahamas,30.9,"122
+"
+Barbados,9.7,"28
+"
+British Virgin Islands,8.37,"2
+"
+Cayman Islands,8.45,"5
+"
+Cuba,4.99,"572
+"
+Curaçao,19.19,"26
+"
+Dominica,25.7,"19
+"
+Dominican Republic,10.05,"1,068
+"
+Grenada,11.1,"12
+"
+Guadeloupe,8.01,"36
+"
+Haiti,6.68,"773
+"
+Jamaica,43.85,"1287
+"
+Martinique,2.78,"11
+"
+Montserrat,19.88,"1
+"
+Puerto Rico,21.09,"641
+"
+Saint Kitts and Nevis,34.23,"18
+"
+Saint Lucia,21.44,"39
+"
+Saint Vincent and the Grenadines,36.46,"40
+"
+Trinidad and Tobago,30.88,"420
+"
+Turks and Caicos Islands,5.93,"2
+"
+US Virgin Islands,49.26,"52
+"
+Belize,37.9,"142
+"
+Costa Rica,11.26,"563
+"
+El Salvador,52.02,"3,340
+"
+Guatemala,22.5,"3,881
+"
+Honduras,38.93,"3,732
+"
+Mexico,29.07,"36,685
+"
+Nicaragua,7.37,"453
+"
+Panama,9.39,"392
+"
+Bermuda,8.2,"5
+"
+Canada,1.76,"651
+"
+Greenland,5.31,"3
+"
+Saint Pierre and Miquelon,15.93,"1
+"
+United States,4.96,"16,214
+"
+Argentina,5.32,"2,362
+"
+Bolivia,6.3,"686
+"
+Brazil,22.7,"47,773
+"
+Chile,4.4,"825
+"
+Colombia,25.34,"12,586
+"
+Ecuador,5.8,"991
+"
+French Guiana,13.15,"30
+"
+Guyana,14.25,"111
+"
+Paraguay,7.14,"497
+"
+Peru,7.7,"2,487
+"
+Suriname,5.5,"31
+"
+Uruguay,12.06,"416
+"
+Venezuela,36.69,"10,598
+"
+Kazakhstan,5.0,"915
+"
+Kyrgyzstan,2.19,"138
+"
+Tajikistan,1.61,"126
+"
+Turkmenistan,4.22,"203
+"
+Uzbekistan,1.1,"363
+"
+China,0.53,"7,525
+"
+Hong Kong,0.65,"48
+"
+Japan,0.26,"334
+"
+Macau,0.32,"2
+"
+Mongolia,6.18,"196
+"
+North Korea,4.4,"1,110
+"
+South Korea,0.6,"309
+"
+Taiwan,0.82,"192
+"
+Brunei,0.49,"2
+"
+Cambodia,1.84,"268
+"
+Indonesia,0.4,"1,150
+"
+Laos,7.01,"467
+"
+Malaysia,2.11,"627
+"
+Myanmar,2.27,"1,198
+"
+Philippines,6.46,"6,895
+"
+Singapore,0.16,"9
+"
+Thailand,3.24,"2,229
+"
+Timor-Leste,3.95,"49
+"
+Vietnam,1.52,"1,358
+"
+Afghanistan,6.66,"2,474
+"
+Bangladesh,2.37,"3,830
+"
+Bhutan,1.19,"9
+"
+India,3.08,"41,651
+"
+Iran,2.47,"1,936
+"
+Maldives,0.75,"3
+"
+Nepal,2.16,"627
+"
+Pakistan,3.88,"8,241
+"
+Sri Lanka,2.42,"514
+"
+Armenia,1.69,"50
+"
+Azerbaijan,2.2,"219
+"
+Bahrain,0.52,"7
+"
+Cyprus,1.26,"15
+"
+Georgia,2.22,"89
+"
+Iraq,9.85,"3,339
+"
+Iraq (excluding Kurdistan),10.08,"3,029
+"
+Kurdistan Region (Iraq),2.2,"111
+"
+Israel,1.36,"110
+"
+Jordan,1.4,"133
+"
+Kuwait,1.8,"61
+"
+Lebanon,2.49,"171
+"
+Oman,0.27,"13
+"
+Qatar,0.38,"9
+"
+Saudi Arabia,1.3,"419
+"
+Palestine,0.49,"24
+"
+Syria,0.88,"149
+"
+Turkey,2.59,"2,133
+"
+United Arab Emirates,0.5,"44
+"
+Yemen,6.66,"1,703
+"
+Belarus,2.39,"226
+"
+Bulgaria,1.3,"92
+"
+Czech Republic,0.6,"66
+"
+Hungary,2.5,"242
+"
+Poland,0.73,"277
+"
+Moldova,4.1,"166
+"
+Romania,1.28,"250
+"
+Russia,8.21,"11,964
+"
+Slovakia,1.37,"62
+"
+Ukraine,6.2,"2,751
+"
+Channel Islands,0.0,"0
+"
+Denmark,1.01,"52
+"
+Estonia,2.12,"28
+"
+Finland,1.63,"90
+"
+Iceland,0.89,"3
+"
+Ireland,0.87,"42
+"
+Isle of Man,0.0,"0
+"
+Latvia,4.36,"84
+"
+Lithuania,4.57,"128
+"
+Norway,0.47,"25
+"
+Sweden,1.08,"108
+"
+England and Wales,1.2,"726
+"
+Northern Ireland,1.22,"23
+"
+Scotland,1.12,"61
+"
+United Kingdom,1.2,"809
+"
+Albania,2.29,"66
+"
+Andorra,0.0,"0
+"
+Bosnia and Herzegovina,1.17,"39
+"
+Croatia,0.58,"24
+"
+Gibraltar,3.01,"1
+"
+Greece,0.94,"99
+"
+Vatican City,0.0,"0
+"
+Italy,0.57,"345
+"
+Kosovo,2.4,"44
+"
+Malta,1.59,"7
+"
+Montenegro,2.23,"14
+"
+Portugal,0.79,"81
+"
+San Marino,0.0,"0
+"
+Serbia,1.23,"108
+"
+Slovenia,0.48,"10
+"
+Spain,0.62,"290
+"
+North Macedonia,1.2,"25
+"
+Austria,0.97,"86
+"
+Belgium,1.7,"193
+"
+France,1.2,"779
+"
+Germany,0.95,"788
+"
+Liechtenstein,2.64,"1
+"
+Luxembourg,0.3,"2
+"
+Monaco,0.0,"0
+"
+Netherlands,0.59,"100
+"
+Switzerland,0.59,"50
+"
+Australia,0.89,"222
+"
+New Zealand,0.7,"35
+"
+Fiji,2.26,"20
+"
+New Caledonia,3.23,"8
+"
+Papua New Guinea,7.85,"520
+"
+Solomon Islands,3.77,"19
+"
+Vanuatu,2.13,"6
+"
+Guam,2.51,"4
+"
+Kiribati,7.5,"8
+"
+Micronesia,4.67,"5
+"
+Nauru,0.0,"0
+"
+Palau,11.17,"2
+"
+American Samoa,5.4,"3
+"
+Cook Islands,3.49,"1
+"
+French Polynesia,0.38,"1
+"
+Niue,0.0,"0
+"
+Samoa,3.15,"6
+"
+Tonga,0.95,"1
+"
+Tuvalu,18.65,"2
+"

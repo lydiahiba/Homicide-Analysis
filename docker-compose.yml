@@ -1,0 +1,59 @@
+version: '3.7'
+services:
+    mysql:
+        image: mysql/mysql-server:latest 
+        # networks:
+        #     - default
+        restart: always # car souvent on a besoin de restarté  
+        environment:
+          MYSQL_DATABASE: 'MY_DB'
+          # So you don't have to use root, but you can if you like
+          MYSQL_USER: 'root'
+          # You can use whatever password you like
+          MYSQL_PASSWORD: 'rootpassword'
+          MYSQL_TCP_PORT: '3308'
+          # Password for root access
+          MYSQL_ROOT_PASSWORD: 'root'
+        ports:
+          # <Port exposed> : < MySQL Port running inside container>
+          - '3308:3308'
+        expose:
+          # Opens port 3306 on the container
+          - '3308'
+          # Where our data will be persisted
+        volumes:
+          - "my-db:/var/lib/mysql:rw"
+    
+    admin:
+        image: adminer
+        ports:
+          - "8080:8080"
+
+    streamlit:
+        build:
+          context: ./streamlit ## ici on précise le dossier dans lequel on a le docker file qu'on va builder avec notre image streamlit
+          dockerfile: Dockerfile
+        image: dataviz/streamlit:0.0.1 ## ça c'est le nom de l'image 
+        container_name: streamlit_dataviz
+        environment: 
+          PYTHONUNBUFFERED: 'true'
+        ports: 
+          - "8501:8501"
+        expose: 
+          - '8501'
+        depends_on:
+            - mysql
+        # networks:
+        #     - default
+        volumes:
+            - "./streamlit:/app"
+              
+
+# Names our volume
+volumes:
+  my-db: {} 
+  streamlit-data: {}
+# Network 
+# networks:
+#   default:
+#     driver: bridge
