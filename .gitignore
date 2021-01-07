@@ -4,4 +4,4 @@ Exploration_notebook.ipynb
 .ipynb_checkpoints
 .vscode
 .DS_Store
-
+streamlit/requirements.txt
